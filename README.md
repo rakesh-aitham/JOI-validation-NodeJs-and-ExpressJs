@@ -11,7 +11,8 @@ Joi is the most famous, efficient, and widely used package for object schema des
 
 # Usage
 #### 1. Install JOI:
-```npm install joi
+```
+npm install joi
 ```
 #### 2. Define Schema:
 create a Joi schema describing the expected structure and validation rules for user date/payload
