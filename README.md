@@ -3,13 +3,8 @@ Assume you’re working on an endpoint that expects user data such as – userna
 
 Joi is the most famous, efficient, and widely used package for object schema descriptions and validation. Joi allows the developers to build the Javascript blueprints and make sure that the application accepts the accurately formatted data. Integrating Joi with Express.js simplifies the validation process, ensuring data integrity with minimal code.
 
-### Here are some of the advantages of Joi-
 
-* Easy to implement and easy to learn.
-* Widely accepted and well-known package for data validation.
-* Supports validation based on the schema.
-
-# Usage
+## Usage
 #### 1. Install JOI:
 ```
 npm install joi
