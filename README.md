@@ -20,4 +20,4 @@ create a Joi schema describing the expected structure and validation rules for u
 #### 3. Validate Data:
 Use the Joi schema to validate incoming user data or payload. Handle validation errors gracefully, providing clear feedback to users.
 
-Implementing data validation using Joi in Node.js and Express.js applications enhances data reliability and security. Prevents undesirable data from entering the system or user data.
+Implementing data validation using Joi in Node.js and Express.js applications enhances data reliability and security. Prevents undesirable data from entering the system or user.
